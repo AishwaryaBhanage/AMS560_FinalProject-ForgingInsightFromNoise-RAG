@@ -132,5 +132,5 @@ It is a production-ready system demonstrating:
 
 A fully offline knowledge engine for biomedical discovery.
 
-[![Demo](media/demo.gif)](media/RAG_onHPC.mp4)
+
 
