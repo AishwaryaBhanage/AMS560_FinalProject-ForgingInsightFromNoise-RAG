@@ -131,3 +131,6 @@ It is a production-ready system demonstrating:
 - Strict citation grounding
 
 A fully offline knowledge engine for biomedical discovery.
+
+[![Demo](media/demo.gif)](media/output.mp4)
+
