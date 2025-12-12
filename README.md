@@ -1,4 +1,4 @@
-# PubMed Semantic Search System 🔍
+# Forging Insight From Noise 🔍
 
 A powerful AI-driven semantic search engine for finding relevant medical research papers from PubMed database. Instead of simple keyword matching, this system understands the **meaning** behind your queries and returns the most relevant scientific papers with AI-generated summaries.
 
@@ -8,7 +8,7 @@ A powerful AI-driven semantic search engine for finding relevant medical researc
 
 - [What Does This Project Do?](#-what-does-this-project-do)
 - [Problem Statement](#-problem-statement)
-- [How It Works](#-how-it-works)
+- [How It Works](#how-it-works)
 - [System Requirements](#-system-requirements)
 - [Installation Guide](#-installation-guide)
 - [Step-by-Step Execution](#-step-by-step-execution)
@@ -845,6 +845,7 @@ python answer.py          # Step 4b: Search + AI answer
 
 **Last Updated**: December 11, 2025  
 **Version**: 1.2
+
 
 
 
