@@ -66,7 +66,7 @@ We built an AI-powered semantic search system that:
 
 ---
 
-## 🛠️ How It Works
+## How It Works
 
 ### 4-Stage Pipeline
 
@@ -812,7 +812,7 @@ If you use this project in research, please cite the underlying technologies.
 
 ## ✅ Final Checklist
 
-Before running the system, ensure:
+Before running this project, ensure:
 
 - [ ] Python 3.8+ installed
 - [ ] Virtual environment created and activated
@@ -840,23 +840,11 @@ python answer.py          # Step 4b: Search + AI answer
 
 ---
 
-## 🎉 Congratulations!
-
-You now have a fully functional semantic search system for PubMed research papers!
-
-**What you built:**
-- ✅ Data ingestion pipeline processing millions of papers
-- ✅ Semantic embedding system using transformers
-- ✅ Fast vector search using FAISS
-- ✅ AI answer generation using LLM
-- ✅ Complete offline research assistant
-
-**Next time you need to search medical literature, use this instead of spending hours on Google Scholar!**
 
 ---
 
 **Last Updated**: December 11, 2025  
-**Version**: 1.0  
-**Status**: Production Ready ✓
+**Version**: 1.2
+
 
 
