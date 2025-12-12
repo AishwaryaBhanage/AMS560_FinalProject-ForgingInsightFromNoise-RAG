@@ -6,10 +6,10 @@ A powerful AI-driven semantic search engine for finding relevant medical researc
 
 ## 📋 Table of Contents
 
-- [What Does This Project Do?](#what-does-this-project-do)
-- [Problem Statement](#problem-statement)
-- [How It Works](#how-it-works)
-- [System Requirements](#system-requirements)
+- [What Does This Project Do?](#-what-does-this-project-do)
+- [Problem Statement](#-problem-statement)
+- [How It Works](#-how-it-works)
+- [System Requirements](#-system-requirements)
 - [Installation Guide](#installation-guide)
 - [Step-by-Step Execution](#step-by-step-execution)
 - [Usage Examples](#usage-examples)
@@ -858,3 +858,4 @@ You now have a fully functional semantic search system for PubMed research paper
 **Last Updated**: December 11, 2025  
 **Version**: 1.0  
 **Status**: Production Ready ✓
+
